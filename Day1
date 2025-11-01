@@ -1,0 +1,16 @@
+Maven 
+=====
+=> Maven is a build tool developed by Apache Organization 
+=> Maven is developed using Java Language 
+=> Maven is free software 
+=> Maven is used to automate build process of the project
+
+What Maven Can do ?
+
+Maven creates project structure.
+===============================
+1) Download Required Dependencies 
+2) Add dependencies to project build path .
+3) Compile project source code.
+4) Execute Unit test cases of project (Junits) .
+5) Package our project as jar or war file
