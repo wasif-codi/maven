@@ -14,3 +14,6 @@ Maven creates project structure.
 3) Compile project source code.
 4) Execute Unit test cases of project (Junits) .
 5) Package our project as jar or war file
+6) Maven creates project structure.
+Current version of maven is as of now 3.9.11
+
