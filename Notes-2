@@ -22,7 +22,7 @@ Types of Maven repository
 Maven Repositories => 
 Maven repository means a place where all jars will be stored. 
 => In Maven we have 3 types of Repositories.
-1) Central repository.
+1) Central repository. -> (also called MCP - maven central portal )
 2) Remote Repository .
 3) Local repository.
 
