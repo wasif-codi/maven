@@ -17,3 +17,16 @@ Maven creates project structure.
 6) Maven creates project structure.
 Current version of maven is as of now 3.9.11
 
+Maven Terminology :
+=================
+=> Archetype: It represents type of project we want to create 
+=> quickstart: standalone application webapp: web application 
+=> groupId: It represents org name ex: com.tcs com.ibm.
+=> artifactId : It represents project name ex: flipkart_app amazon_app 
+=> version: It represents project version
+=> SNAPSHOT: Under development
+=> RELEASE: Develoment completed (production) 
+=> Packaging: How you want to package your app (jar / war )
+   quickstart: standalone application jar 
+   webapp : web application ==> war file
+
